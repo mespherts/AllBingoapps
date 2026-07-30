@@ -4,23 +4,23 @@
     "subtitle": "Compare and find the right service, fast."
   },
   "tags": [
-    "Forex",
+    "Deposit bonus",
     "Crypto",
-    "Futures",
-    "Indices",
+    "telebirr",
+    "registration bonus",
     "Metals",
     "Instant Funding"
   ],
   "services": [
     {
-      "id": "example-one",
-      "name": "Example Firm One",
-      "logo": "assets/logos/example-one.png",
+      "id": "bingo_habesha_bot",
+      "name": "Bingo Habesha",
+      "logo": "assets/bingo_habesha_bot.jpg",
       "rating": 4.7,
       "reviews": 1254,
-      "tags": ["Forex", "Crypto", "Metals"],
-      "note": "10% OFF",
-      "link": "https://example.com/one",
+      "tags": ["Bingo", "Deposit bonus", "telebirr", "registration bonus"],
+      "note": "100% deposite bonus",
+      "link": "https://t.me/bingo_habesha_bot?start=E1M5DM",
       "featured": true
     },
     {
