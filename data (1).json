@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "title": "Service Directory",
+    "subtitle": "Compare and find the right service, fast."
+  },
+  "tags": [
+    "Forex",
+    "Crypto",
+    "Futures",
+    "Indices",
+    "Metals",
+    "Instant Funding"
+  ],
+  "services": [
+    {
+      "id": "example-one",
+      "name": "Example Firm One",
+      "logo": "assets/logos/example-one.png",
+      "rating": 4.7,
+      "reviews": 1254,
+      "tags": ["Forex", "Crypto", "Metals"],
+      "note": "10% OFF",
+      "link": "https://example.com/one",
+      "featured": true
+    },
+    {
+      "id": "example-two",
+      "name": "Example Firm Two",
+      "logo": "",
+      "rating": 4.2,
+      "reviews": 1148,
+      "tags": ["Crypto", "Futures", "Instant Funding"],
+      "note": "20% OFF",
+      "link": "https://example.com/two",
+      "featured": false
+    },
+    {
+      "id": "example-three",
+      "name": "Example Firm Three",
+      "logo": "",
+      "rating": 4.4,
+      "reviews": 848,
+      "tags": ["Forex", "Indices"],
+      "note": "7% OFF",
+      "link": "https://example.com/three",
+      "featured": false
+    }
+  ]
+}
