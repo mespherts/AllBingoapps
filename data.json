@@ -1,49 +1,220 @@
 {
-  "meta": {
-    "title": "Service Directory",
-    "subtitle": "Compare and find the right service, fast."
-  },
-  "tags": [
-    "Deposit bonus",
-    "Crypto",
-    "telebirr",
-    "registration bonus",
-    "Metals",
-    "Instant Funding"
-  ],
   "services": [
     {
-      "id": "bingo_habesha_bot",
+      "name": "DIL Bingo",
+      "logo": "assets/logos/dil-bingo.jpg",
+      "rating": 4.6,
+      "reviews": 25000,
+      "tags": [
+        "Registration bonus",
+        "telebirr",
+        "auto mode",
+        "cbe birr",
+        "multiple cartel"
+      ],
+      "note": "up to 100% deposit bonus",
+      "link": "https://t.me/Dilbingo_bot?start=8664576492",
+      "featured": false,
+      "id": "dil-bingo"
+    },
+    {
       "name": "Bingo Habesha",
-      "logo": "assets/bingo_habesha_bot.jpg",
-      "rating": 4.7,
-      "reviews": 1254,
-      "tags": ["Bingo", "Deposit bonus", "telebirr", "registration bonus"],
-      "note": "100% deposite bonus",
-      "link": "https://t.me/bingo_habesha_bot?start=E1M5DM",
-      "featured": true
+      "rating": 4.8,
+      "reviews": 32000,
+      "tags": [
+        "registration bonus",
+        "telebirr",
+        "auto mode",
+        "cbe birr",
+        "multiple cartel"
+      ],
+      "note": "up to 150% deposit bonus",
+      "link": "https://t.me/bingo_habesha_bot?start=AO4WR0",
+      "featured": false,
+      "id": "bingo-habesha",
+      "logo": "assets/logos/bingo-habesha.jpg"
     },
     {
-      "id": "example-two",
-      "name": "Example Firm Two",
-      "logo": "",
-      "rating": 4.2,
-      "reviews": 1148,
-      "tags": ["Crypto", "Futures", "Instant Funding"],
-      "note": "20% OFF",
-      "link": "https://example.com/two",
-      "featured": false
+      "name": "Hulu Bingo",
+      "rating": 4.1,
+      "reviews": 23000,
+      "tags": [
+        "registration bonus",
+        "telebirr",
+        "auto mode",
+        "cbe birr",
+        "multiple cartel",
+        "VIP Game"
+      ],
+      "note": "up to 100% deposit bonus",
+      "link": "https://t.me/HuluBingoZoneBot?start=397T1F",
+      "featured": false,
+      "id": "hulu-bingo",
+      "logo": "assets/logos/hulu-bingo.jpg"
     },
     {
-      "id": "example-three",
-      "name": "Example Firm Three",
-      "logo": "",
-      "rating": 4.4,
-      "reviews": 848,
-      "tags": ["Forex", "Indices"],
-      "note": "7% OFF",
-      "link": "https://example.com/three",
-      "featured": false
+      "name": "Shen Bingo",
+      "rating": 4.3,
+      "reviews": 25000,
+      "tags": [
+        "registration bonus",
+        "telebirr",
+        "auto mode",
+        "multiple cartel"
+      ],
+      "note": "All time 10% deposit bonus",
+      "link": "https://t.me/ShenBingoBot?start=PMDK73",
+      "featured": false,
+      "id": "shen-bingo",
+      "logo": "assets/logos/shen-bingo.jpg"
+    },
+    {
+      "name": "Afro Bingo",
+      "rating": 4.3,
+      "reviews": 26000,
+      "tags": [
+        "registration bonus",
+        "telebirr",
+        "auto mode",
+        "cbe birr",
+        "multiple cartel",
+        "multiple stake"
+      ],
+      "link": "https://t.me/afrobingooobot?start=D43E48A6",
+      "featured": false,
+      "id": "afro-bingo",
+      "logo": "assets/logos/afro-bingo.jpg"
+    },
+    {
+      "name": "Vamos Bingo",
+      "logo": "assets/logos/vamos-bingo.jpg",
+      "rating": 4.0,
+      "reviews": 14000,
+      "tags": [
+        "registration bonus",
+        "telebirr",
+        "auto mode",
+        "cbe birr",
+        "multiple cartel"
+      ],
+      "note": "50 Birr registration bonus",
+      "link": "https://t.me/Vamosbingo369bot?start=8664576492",
+      "featured": false,
+      "id": "vamos-bingo"
+    },
+    {
+      "name": "Flash Bingo",
+      "rating": 4.3,
+      "reviews": 24000,
+      "tags": [
+        "registration bonus",
+        "telebirr",
+        "auto mode",
+        "cbe birr",
+        "m-pessa",
+        "multiple cartel"
+      ],
+      "note": "up to 60% deposit bonus",
+      "link": "https://t.me/Bingoflashbot?start=ref_H8A1AK",
+      "featured": false,
+      "id": "flash-bingo",
+      "logo": "assets/logos/flash-bingo.jpg"
+    },
+    {
+      "name": "Geez Bingo",
+      "rating": 1,
+      "reviews": 1,
+      "tags": [
+        "Registration bonus",
+        "telebirr",
+        "auto mode",
+        "Keno",
+        "Aviator"
+      ],
+      "note": "Includes Aviator and Keno",
+      "link": "https://t.me/geez_bingos_bot?start=D0B7F1E5",
+      "featured": false,
+      "id": "geez-bingo",
+      "logo": "assets/logos/geez-bingo.jpg"
+    },
+    {
+      "name": "Bravo Bingo",
+      "rating": 4.1,
+      "reviews": 11000,
+      "tags": [
+        "registration bonus",
+        "telebirr",
+        "auto mode",
+        "cbe birr",
+        "cbe bank",
+        "multiple cartel"
+      ],
+      "note": "up to 10% cashback",
+      "link": "https://t.me/BravoBingoBot?start=6a6279da2ed4b",
+      "featured": false,
+      "id": "bravo-bingo",
+      "logo": "assets/logos/bravo-bingo.jpg"
+    },
+    {
+      "name": "Zingo Games",
+      "logo": "assets/logos/zingo-bingo.jpg",
+      "rating": 3.8,
+      "reviews": 22000,
+      "tags": [
+        "Registration bonus",
+        "telebirr",
+        "auto mode",
+        "cbe birr",
+        "m-pessa",
+        "usdt",
+        "multiple cartel",
+        "Keno",
+        "Aviator",
+        "Football betting",
+        "casino"
+      ],
+      "note": "10% Cashback",
+      "link": "@zingo_bingo_bot",
+      "featured": false,
+      "id": "zingo-bingo"
+    },
+    {
+      "name": "Dash Games",
+      "rating": 4.1,
+      "reviews": 13000,
+      "tags": [
+        "Registration bonus",
+        "telebirr",
+        "auto mode",
+        "cbe birr",
+        "multiple cartel",
+        "Keno",
+        "Aviator",
+        "Football betting",
+        "casino"
+      ],
+      "note": "Game zone & Casino",
+      "link": "https://t.me/Dashgamezbot?start=REF_NmE2Y2YxZjQzYjhjZTM4YzI5Yzc3ZDE0",
+      "featured": false,
+      "id": "dash-games",
+      "logo": "assets/logos/dash-games.jpg"
     }
+  ],
+  "tags": [
+    "Aviator",
+    "Football betting",
+    "Keno",
+    "Registration bonus",
+    "VIP Game",
+    "auto mode",
+    "casino",
+    "cbe bank",
+    "cbe birr",
+    "m-pessa",
+    "multiple cartel",
+    "multiple stake",
+    "registration bonus",
+    "telebirr",
+    "usdt"
   ]
 }
