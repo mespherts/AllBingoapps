@@ -1,6 +1,26 @@
 (function () {
   "use strict";
 
+  /* ---------- Splash screen ---------- */
+  var splash = document.getElementById("splash");
+  if (splash) {
+    var dismissSplash = function () {
+      splash.classList.add("splash--hide");
+      splash.addEventListener("transitionend", function handler() {
+        if (splash.parentNode) splash.parentNode.removeChild(splash);
+      }, { once: true });
+    };
+    var splashTimer = setTimeout(dismissSplash, 2000);
+    splash.addEventListener("click", function () {
+      clearTimeout(splashTimer);
+      dismissSplash();
+    });
+  }
+})();
+
+(function () {
+  "use strict";
+
   /* ---------- Telegram WebApp integration ---------- */
   var tg = window.Telegram && window.Telegram.WebApp;
 
@@ -247,7 +267,7 @@
 
     var cta = document.createElement("a");
     cta.className = "row__cta";
-    cta.textContent = "View \u2192";
+    cta.textContent = "Open \u2192";
     cta.href = svc.link || "#";
     cta.target = "_blank";
     cta.rel = "noopener noreferrer";
