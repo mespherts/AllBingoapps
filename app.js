@@ -155,7 +155,8 @@
     return state.all.filter(function (svc) {
       var matchesQuery =
         state.query.length === 0 ||
-        svc.name.toLowerCase().indexOf(state.query) !== -1;
+        svc.name.toLowerCase().indexOf(state.query) !== -1 ||
+        (svc.tags || []).some(function (t) { return t.toLowerCase().indexOf(state.query) !== -1; });
 
       var matchesTags =
         state.activeTags.size === 0 ||
@@ -219,6 +220,16 @@
     top.appendChild(logo);
     top.appendChild(name);
 
+    var bonus = null;
+    if (svc.registration_bonus) {
+      bonus = document.createElement("div");
+      bonus.className = "row__bonus";
+      bonus.innerHTML = '<span class="row__bonus-icon">\uD83C\uDF81</span>';
+      var bonusText = document.createElement("span");
+      bonusText.textContent = svc.registration_bonus;
+      bonus.appendChild(bonusText);
+    }
+
     var tagsWrap = document.createElement("div");
     tagsWrap.className = "row__tags";
     (svc.tags || []).forEach(function (t) {
@@ -281,6 +292,7 @@
     bottom.appendChild(cta);
 
     row.appendChild(top);
+    if (bonus) row.appendChild(bonus);
     if ((svc.tags || []).length) row.appendChild(tagsWrap);
     row.appendChild(bottom);
 
