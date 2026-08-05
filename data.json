@@ -2,6 +2,7 @@
   "services": [
     {
       "name": "DIL Bingo",
+      "registration_bonus": "10 Birr",
       "logo": "assets/logos/dil-bingo.jpg",
       "rating": 4.6,
       "reviews": 25000,
@@ -14,11 +15,13 @@
       ],
       "note": "up to 100% deposit bonus",
       "link": "https://t.me/Dilbingo_bot?start=8664576492",
-      "featured": false,
+      "featured": true,
       "id": "dil-bingo"
     },
     {
       "name": "Bingo Habesha",
+      "registration_bonus": "10 Birr",
+      "logo": "assets/logos/bingo-habesha.jpg",
       "rating": 4.8,
       "reviews": 32000,
       "tags": [
@@ -30,9 +33,8 @@
       ],
       "note": "up to 150% deposit bonus",
       "link": "https://t.me/bingo_habesha_bot?start=AO4WR0",
-      "featured": false,
-      "id": "bingo-habesha",
-      "logo": "assets/logos/bingo-habesha.jpg"
+      "featured": true,
+      "id": "bingo-habesha"
     },
     {
       "name": "Hulu Bingo",
@@ -54,6 +56,8 @@
     },
     {
       "name": "Shen Bingo",
+      "registration_bonus": "10 Birr",
+      "logo": "assets/logos/shen-bingo.jpg",
       "rating": 4.3,
       "reviews": 25000,
       "tags": [
@@ -65,11 +69,12 @@
       "note": "All time 10% deposit bonus",
       "link": "https://t.me/ShenBingoBot?start=PMDK73",
       "featured": false,
-      "id": "shen-bingo",
-      "logo": "assets/logos/shen-bingo.jpg"
+      "id": "shen-bingo"
     },
     {
       "name": "Afro Bingo",
+      "registration_bonus": "10 Birr",
+      "logo": "assets/logos/afro-bingo.jpg",
       "rating": 4.3,
       "reviews": 26000,
       "tags": [
@@ -82,11 +87,11 @@
       ],
       "link": "https://t.me/afrobingooobot?start=D43E48A6",
       "featured": false,
-      "id": "afro-bingo",
-      "logo": "assets/logos/afro-bingo.jpg"
+      "id": "afro-bingo"
     },
     {
       "name": "Vamos Bingo",
+      "registration_bonus": "50 Birr",
       "logo": "assets/logos/vamos-bingo.jpg",
       "rating": 4.0,
       "reviews": 14000,
@@ -104,6 +109,8 @@
     },
     {
       "name": "Flash Bingo",
+      "registration_bonus": "10 Birr",
+      "logo": "assets/logos/flash-bingo.jpg",
       "rating": 4.3,
       "reviews": 24000,
       "tags": [
@@ -116,9 +123,8 @@
       ],
       "note": "up to 60% deposit bonus",
       "link": "https://t.me/Bingoflashbot?start=ref_H8A1AK",
-      "featured": false,
-      "id": "flash-bingo",
-      "logo": "assets/logos/flash-bingo.jpg"
+      "featured": true,
+      "id": "flash-bingo"
     },
     {
       "name": "Geez Bingo",
@@ -198,12 +204,244 @@
       "featured": false,
       "id": "dash-games",
       "logo": "assets/logos/dash-games.jpg"
+    },
+    {
+      "name": "Hahu Games",
+      "registration_bonus": "0",
+      "rating": 3.9,
+      "reviews": 21500,
+      "tags": [
+        "Games",
+        "Keno",
+        "Multi hot",
+        "Habesha fortune"
+      ],
+      "note": "Up to 100 Birr deposite bonus",
+      "link": "https://t.me/HahuGamebot?start=REF_NmE3Mzc2YWUwOWZiMDAwZmViNjAyNTVj",
+      "featured": false,
+      "id": "hahu-games",
+      "logo": "assets/logos/hahu-games.jpg"
+    },
+    {
+      "name": "Beteseb Bingo",
+      "registration_bonus": "10 Birr",
+      "rating": 4.0,
+      "reviews": 39000,
+      "tags": [
+        "Bingo"
+      ],
+      "link": "https://t.me/betesebbingo_bot?start=8664576492",
+      "featured": false,
+      "id": "beteseb-bingo",
+      "logo": "assets/logos/beteseb-bingo.jpg"
+    },
+    {
+      "name": "Goat Bingo",
+      "registration_bonus": "10 Birr",
+      "rating": 3.8,
+      "tags": [
+        "Bingo"
+      ],
+      "note": "Deposit bonus",
+      "link": "https://t.me/goatbingo1Bot?start=9bceb89b",
+      "featured": false,
+      "id": "goat-bingo",
+      "logo": "assets/logos/goat-bingo.jpg"
+    },
+    {
+      "name": "Gofere Bingo",
+      "registration_bonus": "10 Birr",
+      "rating": 4.2,
+      "reviews": 16000,
+      "tags": [
+        "Bingo"
+      ],
+      "note": "up to 100% deposit bonus",
+      "link": "https://t.me/Goferebingobot?start=SXAD93D",
+      "featured": false,
+      "id": "gofere-bingo",
+      "logo": "assets/logos/gofere-bingo.jpg"
+    },
+    {
+      "name": "Feta Games",
+      "registration_bonus": "10 Birr",
+      "rating": 4.0,
+      "reviews": 13000,
+      "tags": [
+        "Bingo",
+        "Games"
+      ],
+      "note": "Play with 5 Birr stake",
+      "link": "https://t.me/fetagamesbot/home?startapp=8664576492",
+      "featured": false,
+      "id": "feta-games",
+      "logo": "assets/logos/feta-games.jpg"
+    },
+    {
+      "name": "Soka Bingo",
+      "registration_bonus": "10 Birr",
+      "rating": 4.0,
+      "reviews": 19000,
+      "tags": [
+        "Games"
+      ],
+      "note": "Play with 5 Birr stake",
+      "link": "https://t.me/starbingohousebot?start=TEDK6GEP",
+      "featured": false,
+      "id": "soka-bingo",
+      "logo": "assets/logos/soka-bingo.jpg"
+    },
+    {
+      "name": "Bingo Zone",
+      "registration_bonus": "10 Birr",
+      "rating": 4.0,
+      "reviews": 15000,
+      "tags": [
+        "Bingo"
+      ],
+      "link": "https://t.me/bingozoneetbot?start=ref_QT5LF0",
+      "featured": false,
+      "id": "bingo-zone",
+      "logo": "assets/logos/bingo-zone.jpg"
+    },
+    {
+      "name": "Roha Games",
+      "registration_bonus": "10 Birr",
+      "rating": 3.7,
+      "tags": [
+        "Games"
+      ],
+      "link": "https://t.me/rohagamesbot",
+      "featured": false,
+      "id": "roha-games",
+      "logo": "assets/logos/roha-games.jpg"
+    },
+    {
+      "name": "Sigma Bingo",
+      "registration_bonus": "5 Birr",
+      "rating": 3.8,
+      "tags": [
+        "Bingo"
+      ],
+      "link": "https://t.me/SigmaBingo_Bot?start=30DC077C",
+      "featured": false,
+      "id": "sigma-bingo",
+      "logo": "assets/logos/sigma-bingo.jpg"
+    },
+    {
+      "name": "Spark Bingo",
+      "registration_bonus": "10 Birr",
+      "rating": 4.1,
+      "reviews": 11000,
+      "tags": [
+        "Bingo"
+      ],
+      "link": "https://t.me/SparkBingoGame_bot?start=3G2CM8",
+      "featured": false,
+      "id": "spark-bingo",
+      "logo": "assets/logos/spark-bingo.jpg"
+    },
+    {
+      "name": "Gebeta Bingo",
+      "registration_bonus": "10 Birr",
+      "rating": 4.0,
+      "reviews": 12000,
+      "tags": [
+        "Bingo"
+      ],
+      "link": "https://t.me/gebeta_bingo_bot",
+      "featured": false,
+      "id": "gebeta-bingo",
+      "logo": "assets/logos/gebeta-bingo.jpg"
+    },
+    {
+      "name": "Kana Games",
+      "registration_bonus": "10 Birr",
+      "rating": 3.9,
+      "reviews": 22000,
+      "tags": [
+        "Games",
+        "Keno"
+      ],
+      "link": "@Kanagamesbot",
+      "featured": false,
+      "id": "kana-games",
+      "logo": "assets/logos/kana-games.jpg"
+    },
+    {
+      "name": "Zare Games",
+      "registration_bonus": "0",
+      "rating": 4.2,
+      "reviews": 16000,
+      "tags": [
+        "Games",
+        "Keno",
+        "Aviator"
+      ],
+      "link": "https://t.me/zaregames_bot?start=WKL9NV",
+      "featured": false,
+      "id": "zare-games",
+      "logo": "assets/logos/zare-games.jpg"
+    },
+    {
+      "name": "KOKO Games",
+      "registration_bonus": "1",
+      "rating": 4.1,
+      "tags": [
+        "Chicken Road",
+        "Keno",
+        "Avia fly",
+        "Games"
+      ],
+      "note": "Win upto 1,000,000",
+      "link": "https://t.me/kokogamesbot?start=ref_1991a3d8",
+      "featured": false,
+      "id": "koko-games",
+      "logo": "assets/logos/koko-games.jpg"
+    },
+    {
+      "name": "Cash Games",
+      "registration_bonus": "10 Birr",
+      "rating": 4.2,
+      "reviews": 71000,
+      "tags": [
+        "Keno",
+        "Aviator",
+        "Games",
+        "Chicken Road"
+      ],
+      "link": "https://t.me/cashgamesbot?start=REF_NmE3Mjg3ZWVhMmNiOWY2NzllODE2MDMw",
+      "featured": false,
+      "id": "cash-games",
+      "logo": "assets/logos/cash-games.jpg"
+    },
+    {
+      "name": "Best Games",
+      "registration_bonus": "20 Birr",
+      "rating": 4.3,
+      "reviews": 51000,
+      "tags": [
+        "Keno",
+        "Aviator",
+        "Games",
+        "Chicken Road"
+      ],
+      "link": "https://t.me/BestGamezzBot?start=REF_NmE3Mjg1YTRhMmNiOWY2NzllODE1Njg0",
+      "featured": true,
+      "id": "best-games",
+      "logo": "assets/logos/best-games.jpg"
     }
   ],
   "tags": [
+    "Avia fly",
     "Aviator",
+    "Bingo",
+    "Chicken Road",
     "Football betting",
+    "Games",
+    "Habesha fortune",
     "Keno",
+    "Multi hot",
     "Registration bonus",
     "VIP Game",
     "auto mode",
